@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Model weights and generated outputs
+best.pt
+*.pt
+runs/
+pothole_images/
+pothole_images.zip
+pothole_tracking.mp4
+*.mp4
+results.json
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
